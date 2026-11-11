@@ -1,3 +1,5 @@
+> ⚠ **Third-party fork, kept for reference.** this repository contains the unmodified work of **movfuscator** (xor-eaxeaxeax/movfuscator). It is NOT a ~WuBu~ project, is presented with its original branding intact, and is archived as-is. The ~WuBu~ AGI lives in [waefrebeorn/WuBuOS](https://github.com/waefrebeorn/WuBuOS.git).
+
 ```
        ___     ___            ___    ___     ___     ___     ___          ___     ___      
       /\  \   /\  \    ___   /\__\  /\  \   /\__\   /\__\   /\  \        /\  \   /\  \    .
